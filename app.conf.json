@@ -1,0 +1,8 @@
+{
+  "db": {
+    "rootPath": "./db_files"
+  },
+  "server": {
+    "port": 8017
+  }
+}
